@@ -1,5 +1,5 @@
-document.getElementById("header").textContent = "YouTube Clone";
+// document.getElementById("header").textContent = "YouTube Clone";
 
-let user = "admmin";
+// let user = "admmin";
 
-console.log(`${user} has logged on`);
+// console.log(`${user} has logged on`);

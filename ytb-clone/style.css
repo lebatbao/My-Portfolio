@@ -1,0 +1,16 @@
+body{
+    color: #ffffff;
+    background-color: #181818;
+}
+#topbar{
+    width: 100%;
+}
+#iconContainer{
+}
+#hamburgerMenu{
+    margin:10px;
+
+}
+#icon{
+    width: 42px;
+}
