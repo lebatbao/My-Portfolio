@@ -1,4 +1,4 @@
-package com.youtube.clone.model.user;
+package com.youtube.clone.model;
 
 
 import jakarta.persistence.*;
@@ -10,6 +10,7 @@ import lombok.*;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
+@Table(name = "users")
 public class User {
 
     @Id
